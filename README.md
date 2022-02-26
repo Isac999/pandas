@@ -1,2 +1,2 @@
 # pandas
-Análise de dados feito com pandas
+Aprendendo análise de dados com pandas
